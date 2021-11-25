@@ -1,6 +1,6 @@
 # Vue-ME
 
-https://img.shields.io/npm/v/vu-me
+[https://img.shields.io/npm/v/vu-me]()
 
 Add a layer of identification to your Vue applications 
 
